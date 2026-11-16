@@ -5,3 +5,8 @@ unpackage/
 *.db
 *.db-*
 .scratch/
+
+# 服务器地址只留本地，参考 app/.env.production.example
+app/.env.production
+# impeccable 运行时文件
+.impeccable/live/
