@@ -12,7 +12,7 @@
 |---|---|
 | 客户端 | uni-app（Vue3 + Vite + TS，CLI 工程）。首发**安卓 App**，由用户自己用 HBuilderX 云打包。开发和验收用 H5 版（375 宽） |
 | 后端 | Node 20+ / Express 5 / better-sqlite3，部署到用户的宝塔服务器，走子域名 + HTTPS（上线前要再问用户） |
-| AI | DeepSeek（OpenAI 兼容接口，`deepseek-chat`），Key 从环境变量 `DEEPSEEK_API_KEY` 读取 |
+| AI | DeepSeek（OpenAI 兼容接口，`deepseek-flash`，请求里带 `thinking: {type: "disabled"}`；`deepseek-chat` 已于 2026-07-24 下线），Key 从环境变量 `DEEPSEEK_API_KEY` 读取 |
 | 登录与绑定 | 昵称 + 性别注册，换来设备 token 和一个恢复码；绑定用 6 位邀请码 |
 | 城市 | 以成都为主，另外收录一些不限城市的通用点子 |
 | 知识库 | 先从公开网页收集成都约会内容，用自己的话改写成点子卡，再用 AI 生成补足 |
