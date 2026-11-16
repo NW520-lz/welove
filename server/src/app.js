@@ -53,6 +53,33 @@ export function createApp({
     return db.prepare('SELECT data FROM ideas').all().map((r) => JSON.parse(r.data));
   }
 
+  // 心愿卡记在添加人名下，ownerIds 里任何一人加的都算这对情侣共用的
+  function wishRows(ownerIds) {
+    const marks = ownerIds.map(() => '?').join(', ');
+    return db
+      .prepare(`SELECT * FROM wishes WHERE owner_id IN (${marks}) ORDER BY created_at DESC`)
+      .all(...ownerIds);
+  }
+
+  // 把心愿卡转成和内置点子卡一样的结构，抽卡、排行程、分享页都能直接用
+  function wishCard(row) {
+    return {
+      id: row.id,
+      title: row.title,
+      kind: row.kind,
+      category: '心愿卡',
+      city: '',
+      area: '',
+      address: '',
+      budgetPerPerson: row.budget_per_person ?? 0,
+      durationMin: 90,
+      tags: [],
+      rarity: 'common',
+      description: `${findUser(row.owner_id)?.nickname || '你们'} 加的心愿`,
+      source: 'wish',
+    };
+  }
+
   function partnerOf(user) {
     if (!user.couple_id) return null;
     const couple = findCouple(user.couple_id);
@@ -179,6 +206,55 @@ export function createApp({
     res.json({ ok: true });
   });
 
+  // ---------- 心愿卡 ----------
+
+  const myWishOwners = (me) => [me.id, partnerOf(me)?.id].filter(Boolean);
+
+  const publicWish = (row) => ({
+    id: row.id,
+    title: row.title,
+    kind: row.kind,
+    budgetPerPerson: row.budget_per_person,
+    addedBy: publicUser(findUser(row.owner_id)),
+    createdAt: row.created_at,
+  });
+
+  app.get('/api/wishes', auth, (req, res) => {
+    res.json(wishRows(myWishOwners(req.user)).map(publicWish));
+  });
+
+  app.post('/api/wishes', auth, (req, res) => {
+    const { title: rawTitle, kind, budgetPerPerson } = body(req);
+    const title = String(rawTitle || '').trim();
+    if (!title || title.length > 30) fail(400, '名字要填，最多 30 个字');
+    if (kind !== 'eat' && kind !== 'play') fail(400, '请选择是吃还是玩');
+    const noBudget = budgetPerPerson === undefined || budgetPerPerson === null || budgetPerPerson === '';
+    const budget = noBudget ? null : Number(budgetPerPerson);
+    if (!noBudget && !(Number.isInteger(budget) && budget >= 0 && budget <= 100000)) {
+      fail(400, '人均价格要填整数，不填也可以');
+    }
+
+    const row = {
+      id: crypto.randomUUID(),
+      owner_id: req.user.id,
+      title,
+      kind,
+      budget_per_person: budget,
+      created_at: now(),
+    };
+    db.prepare(
+      'INSERT INTO wishes (id, owner_id, title, kind, budget_per_person, created_at) VALUES (@id, @owner_id, @title, @kind, @budget_per_person, @created_at)',
+    ).run(row);
+    res.status(201).json(publicWish(row));
+  });
+
+  app.delete('/api/wishes/:id', auth, (req, res) => {
+    const row = db.prepare('SELECT * FROM wishes WHERE id = ?').get(req.params.id);
+    if (!row || !myWishOwners(req.user).includes(row.owner_id)) fail(404, '找不到这张心愿卡');
+    db.prepare('DELETE FROM wishes WHERE id = ?').run(row.id);
+    res.json({ ok: true });
+  });
+
   // ---------- 约会 ----------
 
   function myDate(req) {
@@ -218,14 +294,11 @@ export function createApp({
     const [a, b] = [findUser(state.roles.eat), findUser(state.roles.play)];
     const excludeTags = game.unionTags(JSON.parse(a.exclude_tags), JSON.parse(b.exclude_tags));
     const currentIds = CARD_SLOTS.map((slot) => state.cards[slot]?.id).filter(Boolean);
-    const pool = game.eligibleCards(allIdeas(), {
-      kind,
-      budgetMax: state.budgetMax,
-      excludeTags,
-      skipIds: [...state.rejectedIds, ...currentIds],
-    });
-    if (pool.length === 0) fail(409, '没有符合条件的卡片了，放宽问卷或换个预算再试试');
-    return weighted ? game.pickByRarity(pool, random) : game.pickOne(pool, random);
+    const filter = { kind, budgetMax: state.budgetMax, excludeTags, skipIds: [...state.rejectedIds, ...currentIds] };
+    const builtin = game.eligibleCards(allIdeas(), filter);
+    const wishes = game.eligibleCards(wishRows([a.id, b.id]).map(wishCard), filter);
+    if (builtin.length === 0 && wishes.length === 0) fail(409, '没有符合条件的卡片了，放宽问卷或换个预算再试试');
+    return game.pickWithWishes(builtin, wishes, random, weighted ? game.pickByRarity : game.pickOne);
   }
 
   app.post('/api/dates', auth, (req, res) => {

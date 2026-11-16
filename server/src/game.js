@@ -62,6 +62,13 @@ export function pickByRarity(cards, random) {
   return pickOne(cards.filter((c) => c.rarity === chosen), random);
 }
 
+// 从内置卡和心愿卡里挑一张：两边都有卡时一半概率抽心愿卡（均匀抽），否则按 pickBuiltin 抽内置卡
+export function pickWithWishes(builtin, wishes, random, pickBuiltin) {
+  if (wishes.length === 0) return pickBuiltin(builtin, random);
+  if (builtin.length === 0 || random() < 0.5) return pickOne(wishes, random);
+  return pickBuiltin(builtin, random);
+}
+
 // 兜底行程：按卡片顺序排，每段用卡片的 durationMin，段与段之间留 30 分钟路程
 export function fallbackItinerary({ startTime, cards, task }) {
   let minutes = toMinutes(startTime);

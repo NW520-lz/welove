@@ -34,6 +34,14 @@ CREATE TABLE IF NOT EXISTS tasks (
   id TEXT PRIMARY KEY,
   text TEXT NOT NULL
 );
+CREATE TABLE IF NOT EXISTS wishes (
+  id TEXT PRIMARY KEY,
+  owner_id TEXT NOT NULL,
+  title TEXT NOT NULL,
+  kind TEXT NOT NULL,
+  budget_per_person INTEGER,
+  created_at INTEGER NOT NULL
+);
 CREATE TABLE IF NOT EXISTS dates (
   id TEXT PRIMARY KEY,
   couple_id TEXT NOT NULL,
