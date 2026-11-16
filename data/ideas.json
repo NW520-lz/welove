@@ -1,0 +1,4942 @@
+[
+  {
+    "id": "cd-001",
+    "title": "鹤鸣茶社坐一下午盖碗茶",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "人民公园内",
+    "budgetPerPerson": 40,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "人多",
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "竹椅矮桌，一杯盖碗茶可以续好几轮水，什么都不干，看湖看人聊天就是整个下午。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-002",
+    "title": "文殊院素斋午餐",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "文殊院街文殊院内",
+    "budgetPerPerson": 40,
+    "durationMin": 60,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "寺里的素斋午餐不辣不腻，吃完顺便在院子里转转，安静又清爽，适合想歇口气的约会。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-003",
+    "title": "文殊坊吃抄手和三大炮",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "文殊坊小吃街",
+    "budgetPerPerson": 40,
+    "durationMin": 60,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "一碗抄手配一份糯米团子裹黄豆粉的三大炮，边走边吃，点汤的口味可以避开红油。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-004",
+    "title": "玉林路夜串串",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "玉林路",
+    "budgetPerPerson": 70,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "晚上九点后热闹起来，自己拿签子下红油锅，签子数一数谁吃得多。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-005",
+    "title": "建设路小吃街扫街",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "成华区",
+    "address": "建设路",
+    "budgetPerPerson": 40,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "学生气很足的小吃街，冰粉、锅盔、抄手、担担面挨着一摊摊试，每样只吃几口。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-006",
+    "title": "郭家桥北街钵钵鸡",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "川大南门外郭家桥北街",
+    "budgetPerPerson": 50,
+    "durationMin": 60,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "川大学生吃了很多年的老店街，钵钵鸡配冒菜、串串，花得少吃得杂。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-007",
+    "title": "太古里边走边吃钵钵鸡和燃面",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "太古里一带",
+    "budgetPerPerson": 40,
+    "durationMin": 60,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "逛完潮牌店顺手来一份钵钵鸡、一碗宜宾燃面，最接地气的吃法就藏在最时髦的街区里。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-008",
+    "title": "小龙坎火锅",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 110,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "排队"
+    ],
+    "rarity": "common",
+    "description": "成都起家的连锁火锅，牛油锅底够劲，周末要提前取号。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-009",
+    "title": "蜀大侠火锅",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 110,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "排队"
+    ],
+    "rarity": "common",
+    "description": "麻辣鲜香的老式火锅店，毛肚鸭肠是点单重点，涮的时候两个人比比谁更能吃辣。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-010",
+    "title": "大龙燚火锅",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 110,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "排队"
+    ],
+    "rarity": "common",
+    "description": "出身成都的老牌火锅，重油重辣，配冰粉解辣，约会吃完全身都是味。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-011",
+    "title": "皇城老妈火锅",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 100,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "排队"
+    ],
+    "rarity": "common",
+    "description": "以牛油麻辣锅底出名的成都火锅，菜品和蘸碟都很讲究，适合想正经吃一顿火锅的夜晚。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-012",
+    "title": "大妙火锅",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 110,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "rare",
+    "description": "走精致路线的成都本地火锅，有鸳鸯锅，可以一人一半各吃各的，也能吃出仪式感。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-013",
+    "title": "巴蜀大宅门火锅",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 120,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "rare",
+    "description": "环境偏中式庭院风，上菜有服务员帮忙，适合想吃火锅又想吃得体面一点的约会。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-014",
+    "title": "五里关火锅奎星楼店",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "奎星楼街一带",
+    "budgetPerPerson": 90,
+    "durationMin": 100,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "排队"
+    ],
+    "rarity": "common",
+    "description": "本地人推荐的老火锅，牛油锅底浓厚，出名的是排队，建议傍晚早点取号。",
+    "source": "https://zhuanlan.zhihu.com/p/696037136"
+  },
+  {
+    "id": "cd-015",
+    "title": "玉林串串香",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 60,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "成都最日常的吃法，签子论根算钱，一人一碗蘸料边烫边聊。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-016",
+    "title": "钢管厂五区小郡肝串串",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 70,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "排队"
+    ],
+    "rarity": "rare",
+    "description": "用小郡肝当招牌的串串老字号，一份郡肝烫三十秒，口感软嫩，是两个人必点。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-017",
+    "title": "武侯祠横街厕所串串",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "武侯祠横街附近",
+    "budgetPerPerson": 40,
+    "durationMin": 70,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "rare",
+    "description": "名字有点粗，但本地人很认，小店串串不错，炸洋芋外酥里软，人均四十左右。",
+    "source": "https://m.ly.com/go/journeytopic/324/3047.html"
+  },
+  {
+    "id": "cd-018",
+    "title": "陈麻婆豆腐尝鲜",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "西玉龙街一带",
+    "budgetPerPerson": 100,
+    "durationMin": 75,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "麻婆豆腐的老字号，麻辣烫鲜嫩酥香，配一碗米饭就很满足，适合带外地朋友一起来。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-019",
+    "title": "夫妻肺片和担担面",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 50,
+    "durationMin": 60,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "成都经典小吃组合，红油拌牛杂和一碗担担面，一人一半最合适。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-020",
+    "title": "钟水饺红油蘸水",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 35,
+    "durationMin": 45,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "甜辣口的红油水饺，先蘸一点试辣度，再决定要不要裹满。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-021",
+    "title": "赖汤圆",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 25,
+    "durationMin": 40,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "糯米皮包着黑芝麻馅的老字号甜汤圆，甜口、不辣，适合吃完辣之后来一碗收尾。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-022",
+    "title": "戴汤圆小吃集合",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 40,
+    "durationMin": 60,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "传统成都小吃集合店，汤圆、抄手、小点心可以点一桌分着吃。",
+    "source": "https://www.sina.cn/gc/article/nitkhxi3759455.html"
+  },
+  {
+    "id": "cd-023",
+    "title": "韩包子早点",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 25,
+    "durationMin": 45,
+    "timeOfDay": [
+      "morning"
+    ],
+    "tags": [
+      "早起"
+    ],
+    "rarity": "common",
+    "description": "起个早买几个热包子，边走边吃，一起享受没被人潮占满的清晨。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-024",
+    "title": "洞子口张凉粉",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "金牛区",
+    "address": "洞子口一带",
+    "budgetPerPerson": 25,
+    "durationMin": 40,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "生冷"
+    ],
+    "rarity": "common",
+    "description": "冷的凉粉拌上红油蒜泥，酸辣爽口，夏天尤其合适。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-025",
+    "title": "蛋烘糕下午点心",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 20,
+    "durationMin": 30,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "松软小饼卷奶油、水果或肉松，现烤现卷，一人一个换着咬。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-026",
+    "title": "老妈蹄花汤",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 60,
+    "durationMin": 60,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "炖得软烂的蹄花汤配白豆花，汤清味厚，蘸碟自己调，不爱辣就别加辣。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-027",
+    "title": "肥肠粉早餐",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 25,
+    "durationMin": 45,
+    "timeOfDay": [
+      "morning"
+    ],
+    "tags": [
+      "辣",
+      "早起"
+    ],
+    "rarity": "common",
+    "description": "早上来一碗红油肥肠粉，热乎乎地辣醒，一天从这碗开始。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-028",
+    "title": "小平肥肠粉",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "天府新区",
+    "address": "天府新区一带",
+    "budgetPerPerson": 30,
+    "durationMin": 45,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "rare",
+    "description": "天府新区的本地人气店，粉汤够味，肥肠处理得干净，适合住在南边的情侣。",
+    "source": "https://www.sina.cn/gc/article/nitkhxi3759455.html"
+  },
+  {
+    "id": "cd-029",
+    "title": "冰粉凉糕消暑",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 15,
+    "durationMin": 30,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "生冷"
+    ],
+    "rarity": "common",
+    "description": "红糖冰粉配山楂、葡萄干和花生碎，吃一碗就把夏天的燥热赶走了。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-030",
+    "title": "双流老妈兔头",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "双流区",
+    "address": "双流区一带",
+    "budgetPerPerson": 80,
+    "durationMin": 75,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "rare",
+    "description": "麻辣兔头是成都人的夜宵标配，两个人比比谁拆得更干净。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-031",
+    "title": "冒椒火辣冒烤鸭",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "奎星楼街一带",
+    "budgetPerPerson": 90,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "网红辣味店，火力够猛，适合吃辣型情侣，建议带水。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-032",
+    "title": "纯阳馆鱼香排骨面",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "奎星楼街一带",
+    "budgetPerPerson": 40,
+    "durationMin": 45,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "rare",
+    "description": "一碗酸甜带辣的排骨面，网上人气不低，具体门店营业情况出发前最好再确认。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-033",
+    "title": "竹篓香冒菜",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "川大南门外郭家桥北街",
+    "budgetPerPerson": 35,
+    "durationMin": 45,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "自己挑菜论份称重，微辣麻辣都能选，学生街里的老字号冒菜。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-034",
+    "title": "牛华串串",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "川大南门外郭家桥北街",
+    "budgetPerPerson": 50,
+    "durationMin": 60,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "和钵钵鸡一条街的老字号串串，价格亲民，吃完顺路去隔壁走走。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-035",
+    "title": "木屋烧烤",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 90,
+    "durationMin": 100,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "酒精"
+    ],
+    "rarity": "common",
+    "description": "成都起家的烧烤连锁，鸡爪、五花肉、茄子都是常点，配上啤酒聊一晚。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-036",
+    "title": "炉鱼烤鱼",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 90,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "烤鱼配蔬菜，鱼肉嫩，可选香辣、泡椒，两个人刚好吃一条。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-037",
+    "title": "大蓉和川菜",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 120,
+    "durationMin": 100,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "成都老牌川菜连锁，回锅肉、鱼香肉丝、水煮肉片轮着点，一顿尝完川菜基本功。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-038",
+    "title": "巴国布衣川菜",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 110,
+    "durationMin": 100,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "环境有蜀地味道的川菜馆，菜单丰富，适合第一次来成都的另一半。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-039",
+    "title": "玉芝兰川菜",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 150,
+    "durationMin": 100,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "rare",
+    "description": "环境和菜品都比日常川菜馆更精致，适合想吃得好一点的纪念日。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-040",
+    "title": "带江草堂宴请式川菜",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 200,
+    "durationMin": 110,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "surprise",
+    "description": "走精致路线的川菜老字号，菜品讲究，适合重要的日子好好吃一顿。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-041",
+    "title": "春熙路太古里日料小聚",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "春熙路与太古里一带",
+    "budgetPerPerson": 180,
+    "durationMin": 100,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "生冷",
+      "海鲜"
+    ],
+    "rarity": "rare",
+    "description": "挑一家安静的日料店，刺身寿司随便点，吃饭时可以安静聊天，不爱生冷的人慎选。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-042",
+    "title": "桐梓林韩式烤肉",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "桐梓林一带",
+    "budgetPerPerson": 100,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "韩国街一带的烤肉店很多，一边烤一边包生菜，最适合边吃边说话的约会。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-043",
+    "title": "饮水村咖啡",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "玉林芳华街24号",
+    "budgetPerPerson": 40,
+    "durationMin": 60,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "老玉林巷子里最早的独立咖啡店之一，侘寂风装修，适合下午找个角落发呆。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-044",
+    "title": "玉林CARPARK咖啡",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "玉林芳华街一带",
+    "budgetPerPerson": 40,
+    "durationMin": 60,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "街头露营风咖啡馆，座位挨着路边，边喝边看年轻人来来往往。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-045",
+    "title": "青莲上街无早咖啡",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "青莲上街",
+    "budgetPerPerson": 40,
+    "durationMin": 60,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "文艺老街里的小咖啡店，逛完望平街之后顺脚过来，适合慢慢聊一个下午。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-046",
+    "title": "大慈寺茶园喝茶晒太阳",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "大慈寺内",
+    "budgetPerPerson": 50,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "寺院里的露天茶园，紧挨太古里却安静得多，可以采耳或者只发呆。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-047",
+    "title": "望江楼竹林里喝茶",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "望江楼公园内",
+    "budgetPerPerson": 40,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "竹林下泡一壶茶，听风声，旁边就是薛涛纪念馆，可以边喝边逛。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-048",
+    "title": "彭镇观音阁老茶馆",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "成都",
+    "area": "双流区",
+    "address": "彭镇",
+    "budgetPerPerson": 50,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "rare",
+    "description": "近郊古镇的老茶馆，坐在江边看水，节奏比市区慢很多。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-049",
+    "title": "宽窄巷子下午茶",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "宽窄巷子",
+    "budgetPerPerson": 70,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "挑一间小院改成的茶馆或咖啡馆坐下，巷子里人再多，院内也能安静。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-050",
+    "title": "九眼桥酒吧河景夜饮",
+    "kind": "eat",
+    "category": "夜生活",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "九眼桥至安顺廊桥一带",
+    "budgetPerPerson": 150,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "酒精",
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "沿锦江的酒吧街，夜景和倒影都不错，两人找个河景位置喝一杯就够。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-051",
+    "title": "玉林路小酒馆一条街",
+    "kind": "eat",
+    "category": "夜生活",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "玉林路一带",
+    "budgetPerPerson": 120,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "酒精"
+    ],
+    "rarity": "common",
+    "description": "整条街开满了小酒馆和清吧，挑一家顺眼的坐进去，随意聊聊天。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-052",
+    "title": "耍酒馆小酌",
+    "kind": "eat",
+    "category": "夜生活",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "川大南门外郭家桥北街",
+    "budgetPerPerson": 80,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "酒精"
+    ],
+    "rarity": "common",
+    "description": "学生街里的老酒馆，价格实在，适合第一次约会不太想花钱的情侣。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-053",
+    "title": "锦里夜逛吃小吃",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "武侯祠大街锦里",
+    "budgetPerPerson": 60,
+    "durationMin": 100,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "灯笼亮起之后的锦里热闹有味，糖油果子、凉糕、烤串一路吃，人多但气氛不错。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-054",
+    "title": "东郊记忆河边川菜晚餐",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "成华区",
+    "address": "东郊记忆附近",
+    "budgetPerPerson": 80,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "逛完园区找一家河边小馆，回锅肉、麻婆豆腐加一份炒青菜，吃得踏实。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-055",
+    "title": "老成都醪糟粉子蛋",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 25,
+    "durationMin": 40,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "酒精"
+    ],
+    "rarity": "common",
+    "description": "热乎乎的醪糟汤圆蛋，甜口、软糯，微含酒气，天冷时来一碗特别舒服。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-056",
+    "title": "三圣花乡农家乐午餐",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "三圣花乡一带",
+    "budgetPerPerson": 80,
+    "durationMin": 120,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "在花田旁的农家院落点几个家常菜，吃饭、打牌、发呆都可以。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-057",
+    "title": "洛带古镇客家小吃",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "龙泉驿区",
+    "address": "洛带古镇",
+    "budgetPerPerson": 60,
+    "durationMin": 120,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "辣",
+      "人多"
+    ],
+    "rarity": "rare",
+    "description": "客家老街上的凉粉、盐焗鸡、糍粑，边逛边吃，周末人比较多。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-058",
+    "title": "青城山脚农家腊肉晚餐",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "都江堰市",
+    "address": "青城山镇",
+    "budgetPerPerson": 90,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "爬完山在山脚农家吃腊肉、豆花、野菜，是最解累的一顿。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-059",
+    "title": "成都粤式早茶",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 90,
+    "durationMin": 100,
+    "timeOfDay": [
+      "morning"
+    ],
+    "tags": [
+      "早起"
+    ],
+    "rarity": "common",
+    "description": "虾饺烧卖肠粉叉烧包，清淡不辣，适合想换换口味的周末早晨。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-060",
+    "title": "老城区烘焙店野餐便当",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 50,
+    "durationMin": 60,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "买几块面包和饮料，再去公园草坪铺垫子，吃完就地聊天。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-061",
+    "title": "潮汕牛肉火锅",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 120,
+    "durationMin": 100,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "清汤锅底配现切牛肉，吃的是肉本身的味道，不爱辣的情侣可以选它代替成都火锅。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-062",
+    "title": "菌汤火锅",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 110,
+    "durationMin": 100,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "云南菌菇熬的汤底，鲜得能多喝两碗，辣度为零，适合怕辣的另一半。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-063",
+    "title": "江边露台西餐烛光晚餐",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "锦江沿线",
+    "budgetPerPerson": 250,
+    "durationMin": 110,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [
+      "酒精"
+    ],
+    "rarity": "surprise",
+    "description": "挑一家河景露台，叫一份牛排和红酒，再点一份甜品，仪式感拉满。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-064",
+    "title": "春熙路甜品糖水夜聊",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "春熙路一带",
+    "budgetPerPerson": 60,
+    "durationMin": 60,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "生冷"
+    ],
+    "rarity": "common",
+    "description": "杨枝甘露、双皮奶、雪花冰，随便点一桌糖水，边吃边聊到打烊。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-065",
+    "title": "太古里方所书店咖啡",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "太古里一带",
+    "budgetPerPerson": 70,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "书店里的咖啡座，买一本书再各点一杯，安静的一两个小时。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-066",
+    "title": "乐山豆腐脑",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "太古里一带",
+    "budgetPerPerson": 20,
+    "durationMin": 30,
+    "timeOfDay": [
+      "morning"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "太古里里也能吃到的接地气小吃，咸鲜口配油条，是早餐的好选择。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-067",
+    "title": "九眼桥烧烤夜宵",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "九眼桥一带",
+    "budgetPerPerson": 90,
+    "durationMin": 90,
+    "timeOfDay": [
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "酒精"
+    ],
+    "rarity": "common",
+    "description": "夜深人静时点一堆烤串啤酒，把一天的疲劳都烤掉。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-068",
+    "title": "泰式东南亚餐厅",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 110,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "冬阴功、咖喱蟹、芒果糯米饭，酸辣甜都有，适合想换口味的晚餐。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-069",
+    "title": "韩式部队锅",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 90,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "芝士、年糕、午餐肉一锅煮，热乎乎的，不用特别讲究就能吃好。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-070",
+    "title": "自助烤肉自助餐",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 120,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "不用想点什么，吃回本是目标，两个人互相监督别浪费。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-071",
+    "title": "冷吃兔配啤酒",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 60,
+    "durationMin": 60,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "酒精"
+    ],
+    "rarity": "common",
+    "description": "麻辣冷吃兔是成都下酒的经典，买一份回去慢慢啃。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-072",
+    "title": "春熙路奶茶逛街",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "春熙路",
+    "budgetPerPerson": 25,
+    "durationMin": 60,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "每人挑一杯奶茶，一边喝一边逛，谁挑错了就要和对方分享。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-073",
+    "title": "家常川菜小馆回锅肉套餐",
+    "kind": "eat",
+    "category": "美食",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 70,
+    "durationMin": 70,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "回锅肉、麻婆豆腐加炒青菜，小馆子吃得朴实，两个人刚好点三个菜。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-074",
+    "title": "川剧茶园喝茶看变脸",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "中新街一带",
+    "budgetPerPerson": 150,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "surprise",
+    "description": "边喝茶边看变脸、吐火和皮影，成都夜晚最传统的娱乐。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-075",
+    "title": "祠堂街咖啡逛艺术街区",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "祠堂街",
+    "budgetPerPerson": 60,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "老街修缮后新开了不少咖啡和小店，逛完再找一家坐下，最适合拍照。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-076",
+    "title": "糖油果子红糖锅盔",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 20,
+    "durationMin": 30,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "老成都的零嘴，外酥里软，两个人买一份分着吃。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-077",
+    "title": "人民公园划船",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "人民公园内",
+    "budgetPerPerson": 30,
+    "durationMin": 60,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "在公园的湖面划一圈小船，说不定还有荷花和鸭子，节奏很慢。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-078",
+    "title": "宽窄巷子慢逛",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "宽窄巷子",
+    "budgetPerPerson": 50,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "人多",
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "三条巷子并排，白天人多，傍晚光线好，逛一圈再找间茶馆坐下。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-079",
+    "title": "宽窄巷子后街避人潮",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "宽窄巷子周边",
+    "budgetPerPerson": 30,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "rare",
+    "description": "绕开主街，去后面的小巷看居民生活，反而更像老成都。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-080",
+    "title": "锦里夜游",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "武侯祠大街锦里",
+    "budgetPerPerson": 80,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [
+      "人多",
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "夜晚灯笼亮起之后的锦里更有味道，适合拍照，也适合边走边吃。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-081",
+    "title": "武侯祠逛一圈",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "武侯祠大街",
+    "budgetPerPerson": 50,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "三国迷的朝圣地，园林和红墙竹影很好看，秋天尤其出片。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-082",
+    "title": "杜甫草堂散步",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "草堂路",
+    "budgetPerPerson": 50,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "诗圣旧居改成的园林，竹林小径，安静适合聊天。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-083",
+    "title": "浣花溪公园黄昏散步",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "浣花溪公园",
+    "budgetPerPerson": 0,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "沿着溪水一圈，黄昏光线很好，附近很多人在跳舞唱歌，很有成都味。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-084",
+    "title": "大熊猫繁育研究基地",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "成华区",
+    "address": "熊猫大道",
+    "budgetPerPerson": 60,
+    "durationMin": 240,
+    "timeOfDay": [
+      "morning"
+    ],
+    "tags": [
+      "早起",
+      "人多",
+      "户外"
+    ],
+    "rarity": "rare",
+    "description": "早点去才有机会看到熊猫吃早餐，晚了熊猫就睡觉了，建议早上八点前入场。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-085",
+    "title": "成都博物馆看展",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "小河街",
+    "budgetPerPerson": 0,
+    "durationMin": 150,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "展厅从古蜀到现代，大石犀值得看，下雨天也很合适，建议提前预约。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-086",
+    "title": "四川博物院逛展",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "浣花南路",
+    "budgetPerPerson": 0,
+    "durationMin": 150,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "藏品很丰富，慢慢逛一圈能补不少四川历史，天气不好的周末首选。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-087",
+    "title": "金沙遗址博物馆",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "金沙遗址路",
+    "budgetPerPerson": 70,
+    "durationMin": 150,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "太阳神鸟金饰出土地，遗址大厅和馆内展品值得慢慢看。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-088",
+    "title": "川大博物馆",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "四川大学望江校区",
+    "budgetPerPerson": 0,
+    "durationMin": 120,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "新馆刚开不久，藏品多，也有动植物标本，一天可能看不完，建议预约。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-089",
+    "title": "成都市美术馆看展",
+    "kind": "play",
+    "category": "文艺",
+    "city": "成都",
+    "area": "金牛区",
+    "address": "华严路181号",
+    "budgetPerPerson": 0,
+    "durationMin": 120,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "天府艺术公园里的美术馆，建筑好看，经常有新展，逛完可以在园区走走。",
+    "source": "https://travelnews.qunar.com/qa_strategy/chengdu-couple-date-spots-cheap-hotel-guide"
+  },
+  {
+    "id": "cd-090",
+    "title": "成都极地海洋公园",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "天府新区",
+    "address": "华阳海洋路68号",
+    "budgetPerPerson": 200,
+    "durationMin": 240,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "人多"
+    ],
+    "rarity": "rare",
+    "description": "看企鹅、白鲸和海豚表演，室内为主，不怕天气。",
+    "source": "https://travelnews.qunar.com/qa_strategy/chengdu-couple-date-spots-cheap-hotel-guide"
+  },
+  {
+    "id": "cd-091",
+    "title": "东郊记忆逛展看音乐",
+    "kind": "play",
+    "category": "文艺",
+    "city": "成都",
+    "area": "成华区",
+    "address": "东郊记忆园区",
+    "budgetPerPerson": 30,
+    "durationMin": 150,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "老工厂改的文创园，壁画、展览、咖啡、小酒馆都有，下午去逛到晚上最合适。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-092",
+    "title": "339天府熊猫塔观光层",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "成华区",
+    "address": "天府熊猫塔",
+    "budgetPerPerson": 120,
+    "durationMin": 100,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "surprise",
+    "description": "站在塔里俯瞰成都全貌，适合看日落和夜景。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-093",
+    "title": "望江楼公园逛竹林",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "望江楼公园",
+    "budgetPerPerson": 20,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "竹林成荫，有薛涛井和纪念馆，找个竹林下的长椅坐着发呆。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-094",
+    "title": "活水公园逛湿地",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "活水公园",
+    "budgetPerPerson": 0,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "鱼形的环保公园，湿地和小溪环绕，水边凉快，据说蚊子不爱来。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-095",
+    "title": "合江亭听街头艺人",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "合江亭",
+    "budgetPerPerson": 0,
+    "durationMin": 60,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "在府河与南河交汇处看夜景，听街头歌手，吹着河风。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-096",
+    "title": "安顺廊桥夜景",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "安顺廊桥",
+    "budgetPerPerson": 0,
+    "durationMin": 60,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [
+      "户外",
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "灯笼和倒影都好看，两岸有酒吧和小摊，夜里散步很有氛围。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-097",
+    "title": "夜游锦江乘船",
+    "kind": "play",
+    "category": "夜生活",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "九眼桥码头",
+    "budgetPerPerson": 100,
+    "durationMin": 60,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "surprise",
+    "description": "坐船沿锦江夜航，两岸灯光倒映在水面，是成都最浪漫的夜景方式之一。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-098",
+    "title": "太古里与大慈寺逛一圈",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "太古里与大慈寺",
+    "budgetPerPerson": 40,
+    "durationMin": 150,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "一墙之隔，一边是潮流品牌，一边是安静古寺，对比有意思。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-099",
+    "title": "镗钯街散步",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "镗钯街",
+    "budgetPerPerson": 40,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "民国风小街，安静好逛，24小时书店和咖啡店都值得进去看看。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-100",
+    "title": "祠堂街木木美术馆",
+    "kind": "play",
+    "category": "文艺",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "祠堂街",
+    "budgetPerPerson": 40,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "老街里的美术馆和设计小店，适合慢慢逛，拍照也好看。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-101",
+    "title": "白夜花神诗空间",
+    "kind": "play",
+    "category": "文艺",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "玉林芳华街28号",
+    "budgetPerPerson": 70,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "酒精"
+    ],
+    "rarity": "rare",
+    "description": "诗人翟永明开的文化空间，有咖啡有酒有活动，适合文艺一点的约会。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-102",
+    "title": "一苇书坊坐坐",
+    "kind": "play",
+    "category": "文艺",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "玉林彩虹街一带",
+    "budgetPerPerson": 30,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "小书店常有读书会和观影会，坐在门口长凳看书，不赶时间。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-103",
+    "title": "镗钯街轩客会书店",
+    "kind": "play",
+    "category": "文艺",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "镗钯街",
+    "budgetPerPerson": 30,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "24小时营业的小书店，人文社科类书籍多，晚上去也行。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-104",
+    "title": "锦书来书店",
+    "kind": "play",
+    "category": "文艺",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "锦江绿道旁",
+    "budgetPerPerson": 30,
+    "durationMin": 60,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "绿道边的公共阅读空间，安静舒服，买本书沿江走一走。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-105",
+    "title": "拾秋小院拼豆",
+    "kind": "play",
+    "category": "手作",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "玉林老巷内",
+    "budgetPerPerson": 70,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "藏在老巷里的小院，边喝咖啡边拼豆，成品还能带回家。",
+    "source": "https://my.trip.com/moments/detail/chengdu-104-152989285?locale=zh-MY"
+  },
+  {
+    "id": "cd-106",
+    "title": "青羊宫逛道观",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "一环路西二段",
+    "budgetPerPerson": 10,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "成都最古老的道观，里面有铜羊，逛完再去文化公园走走。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-107",
+    "title": "文殊院祈福逛寺",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "文殊院街",
+    "budgetPerPerson": 0,
+    "durationMin": 90,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "成都市中心的大寺院，进去逛逛，感觉整座城都慢下来了。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-108",
+    "title": "大慈寺听评书",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "大慈寺内",
+    "budgetPerPerson": 30,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "寺里的茶园有时有评书和戏曲，边喝茶边听，很有老成都的感觉。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-109",
+    "title": "华西坝钟楼散步",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "四川大学华西校区",
+    "budgetPerPerson": 0,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "老校园的红砖建筑和钟楼，安静好拍照，学生气重。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-110",
+    "title": "川大望江校区散步",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "四川大学望江校区",
+    "budgetPerPerson": 0,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "校园里的银杏、荷塘和林荫道都很舒服，秋冬尤其好看。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-111",
+    "title": "天府绿道骑行",
+    "kind": "play",
+    "category": "运动",
+    "city": "成都",
+    "area": "天府新区",
+    "address": "天府绿道",
+    "budgetPerPerson": 20,
+    "durationMin": 150,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外",
+      "高体力"
+    ],
+    "rarity": "common",
+    "description": "沿着绿道骑车，路平风景好，骑累了找地方休息就行。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-112",
+    "title": "兴隆湖绕湖骑行",
+    "kind": "play",
+    "category": "运动",
+    "city": "成都",
+    "area": "天府新区",
+    "address": "兴隆湖",
+    "budgetPerPerson": 20,
+    "durationMin": 150,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外",
+      "高体力"
+    ],
+    "rarity": "common",
+    "description": "湖面开阔，骑行道平整，傍晚光线很舒服。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-113",
+    "title": "桂溪生态公园散步",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "高新区",
+    "address": "桂溪生态公园",
+    "budgetPerPerson": 0,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "大草坪适合野餐和放风筝，远处能看到高新区的楼群。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-114",
+    "title": "三圣花乡逛花田",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "三圣花乡",
+    "budgetPerPerson": 30,
+    "durationMin": 150,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "花田连成片，适合拍照，也适合带本书在草地上坐一下午。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-115",
+    "title": "龙泉山城市森林公园看日落",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "龙泉驿区",
+    "address": "龙泉山",
+    "budgetPerPerson": 0,
+    "durationMin": 180,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "户外",
+      "高体力"
+    ],
+    "rarity": "surprise",
+    "description": "爬上观景台看日落，城市灯光依次亮起，值得带一杯热饮。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-116",
+    "title": "黄龙溪古镇",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "双流区",
+    "address": "黄龙溪古镇",
+    "budgetPerPerson": 50,
+    "durationMin": 180,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外",
+      "人多"
+    ],
+    "rarity": "rare",
+    "description": "古榕树和老街茶馆，节奏慢，周末人多，来回要预留时间。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-117",
+    "title": "洛带古镇",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "龙泉驿区",
+    "address": "洛带古镇",
+    "budgetPerPerson": 40,
+    "durationMin": 180,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外",
+      "人多"
+    ],
+    "rarity": "rare",
+    "description": "客家老街，博物馆与小吃都有，适合慢逛半天。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-118",
+    "title": "平乐古镇",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "邛崃市",
+    "address": "平乐古镇",
+    "budgetPerPerson": 50,
+    "durationMin": 240,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "rare",
+    "description": "河边老街、竹海和茶馆，秋天来很舒服，半天一天都够。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-119",
+    "title": "安仁古镇建川博物馆",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "大邑县",
+    "address": "安仁古镇",
+    "budgetPerPerson": 80,
+    "durationMin": 240,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "rare",
+    "description": "公馆建筑群和博物馆，可以看一天，适合喜欢历史的情侣。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-120",
+    "title": "三星堆博物馆",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "广汉市",
+    "address": "三星堆遗址",
+    "budgetPerPerson": 80,
+    "durationMin": 240,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "surprise",
+    "description": "青铜面具和神树就在这里，去之前先预约，馆外也值得走走。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-121",
+    "title": "都江堰景区散步",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "都江堰市",
+    "address": "都江堰景区",
+    "budgetPerPerson": 80,
+    "durationMin": 240,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外",
+      "高体力"
+    ],
+    "rarity": "rare",
+    "description": "古老水利工程，沿江走一走，风大时别忘穿外套。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-122",
+    "title": "青城前山爬山",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "都江堰市",
+    "address": "青城山",
+    "budgetPerPerson": 90,
+    "durationMin": 300,
+    "timeOfDay": [
+      "morning"
+    ],
+    "tags": [
+      "户外",
+      "高体力",
+      "早起"
+    ],
+    "rarity": "rare",
+    "description": "道教名山，台阶多，清晨出发最舒服，建议穿运动鞋。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-123",
+    "title": "西岭雪山滑雪",
+    "kind": "play",
+    "category": "运动",
+    "city": "成都",
+    "area": "大邑县",
+    "address": "西岭雪山",
+    "budgetPerPerson": 280,
+    "durationMin": 360,
+    "timeOfDay": [
+      "morning"
+    ],
+    "tags": [
+      "户外",
+      "高体力",
+      "刺激",
+      "早起"
+    ],
+    "rarity": "surprise",
+    "description": "冬天去西岭雪山滑雪，体验另一种成都，装备可以现场租，注意保暖。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-124",
+    "title": "白鹿镇看红叶",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "彭州市",
+    "address": "白鹿镇",
+    "budgetPerPerson": 60,
+    "durationMin": 240,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "rare",
+    "description": "秋天银杏和红叶染成一片，拍照出片率高，适合周末半日行。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-125",
+    "title": "悦来茶园看川剧",
+    "kind": "play",
+    "category": "文艺",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "中新街",
+    "budgetPerPerson": 150,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "surprise",
+    "description": "戏台上变脸、吐火、杂耍都有，适合想看点特别东西的约会。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-126",
+    "title": "城市音乐厅听音乐会",
+    "kind": "play",
+    "category": "文艺",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "城市音乐厅",
+    "budgetPerPerson": 200,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "提前买票，坐在音乐厅里一起听音乐，是很有仪式感的夜晚。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-127",
+    "title": "锦城艺术宫看演出",
+    "kind": "play",
+    "category": "文艺",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "锦城艺术宫",
+    "budgetPerPerson": 200,
+    "durationMin": 150,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "话剧、音乐剧和舞剧都有，提前看演出表挑一场。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-128",
+    "title": "玉林西路小酒馆听现场",
+    "kind": "play",
+    "category": "夜生活",
+    "city": "成都",
+    "area": "武侯区",
+    "address": "玉林西路",
+    "budgetPerPerson": 80,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "酒精",
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "因歌词闻名的小酒馆，常有乐队现场，里面挤，外面也很有气氛。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-129",
+    "title": "东郊记忆Live现场",
+    "kind": "play",
+    "category": "夜生活",
+    "city": "成都",
+    "area": "成华区",
+    "address": "东郊记忆",
+    "budgetPerPerson": 150,
+    "durationMin": 150,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "酒精",
+      "人多"
+    ],
+    "rarity": "rare",
+    "description": "园区里常有音乐演出，提前看档期，现场的氛围很上头。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-130",
+    "title": "合江亭放河灯",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "合江亭",
+    "budgetPerPerson": 20,
+    "durationMin": 60,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "rare",
+    "description": "节日期间可看河灯和灯光，日常也可以在亭子里吹风看水。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-131",
+    "title": "成都欢乐谷",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "成都",
+    "area": "金牛区",
+    "address": "欢乐谷",
+    "budgetPerPerson": 250,
+    "durationMin": 360,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "刺激",
+      "人多",
+      "户外",
+      "排队"
+    ],
+    "rarity": "rare",
+    "description": "过山车、跳楼机都有，也有温和的项目，不爱刺激的可以选旋转木马。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-132",
+    "title": "玛雅海滩水公园",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "成都",
+    "area": "金牛区",
+    "address": "欢乐谷旁",
+    "budgetPerPerson": 220,
+    "durationMin": 300,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "刺激",
+      "人多",
+      "户外",
+      "排队"
+    ],
+    "rarity": "rare",
+    "description": "夏天去玩水，造浪池、滑道和漂流都有，记得带泳衣和防晒。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-133",
+    "title": "密室逃脱解谜",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 120,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "恐怖"
+    ],
+    "rarity": "common",
+    "description": "挑一个轻松的主题，两个人合作解谜，吓人的主题要先确认。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-134",
+    "title": "剧本杀拼场",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 90,
+    "durationMin": 240,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "选一个轻松的情感本，两个人一起入戏，推理和演技都能展示。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-135",
+    "title": "KTV唱歌",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 60,
+    "durationMin": 150,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "订一间小包，两个人轮流唱，点一首对方不会的歌看会怎样。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-136",
+    "title": "桌游店玩一下午",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 50,
+    "durationMin": 180,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "狼人杀、卡坦岛、情侣对抗游戏，输的人请奶茶。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-137",
+    "title": "电影院看场新片",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 60,
+    "durationMin": 150,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "选一场新上映的电影，吃爆米花，散场后互相说看法。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-138",
+    "title": "保龄球馆",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 50,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "一人一球轮流打，输的人负责买单。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-139",
+    "title": "射箭馆体验",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 80,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "一对一比赛，射中靶心的一方有奖励，有教练指导，新手也能上手。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-140",
+    "title": "室内攀岩馆",
+    "kind": "play",
+    "category": "运动",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 90,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "高体力"
+    ],
+    "rarity": "rare",
+    "description": "新手有教练带，互相当保护员，是最容易增进信任的运动。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-141",
+    "title": "羽毛球对打",
+    "kind": "play",
+    "category": "运动",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 40,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "高体力"
+    ],
+    "rarity": "common",
+    "description": "订一个场地，打几局，输的请喝水。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-142",
+    "title": "卡丁车竞速",
+    "kind": "play",
+    "category": "运动",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 120,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "刺激"
+    ],
+    "rarity": "rare",
+    "description": "两个人比一场，赢的一方可以点餐，戴好头盔，注意安全。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-143",
+    "title": "溜冰场滑冰",
+    "kind": "play",
+    "category": "运动",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 80,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "高体力",
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "牵手一起滑，摔了就笑，会滑的带不会的。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-144",
+    "title": "飞盘与草坪野餐",
+    "kind": "play",
+    "category": "运动",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "公园草坪",
+    "budgetPerPerson": 30,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "户外",
+      "高体力"
+    ],
+    "rarity": "common",
+    "description": "带飞盘和野餐垫去公园，玩累了就地躺着。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-145",
+    "title": "陶艺体验拉坯",
+    "kind": "play",
+    "category": "手作",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 150,
+    "durationMin": 150,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "亲手拉一个杯子，丑得有个性，烧好后可以领回家。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-146",
+    "title": "蛋糕烘焙DIY",
+    "kind": "play",
+    "category": "手作",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 100,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "一起打发奶油、抹蛋糕，做成什么样都能吃下去。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-147",
+    "title": "香薰蜡烛DIY",
+    "kind": "play",
+    "category": "手作",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 90,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "挑精油、倒蜡，做一个带着两人气味的小物件。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-148",
+    "title": "油画棒或水彩画画",
+    "kind": "play",
+    "category": "手作",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 120,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "互相画对方的肖像，谁画得像谁就赢。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-149",
+    "title": "银饰手作",
+    "kind": "play",
+    "category": "手作",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 180,
+    "durationMin": 150,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "敲打、打磨，做一对戒指或吊坠，成品很有纪念意义。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-150",
+    "title": "宠物咖啡馆撸猫",
+    "kind": "play",
+    "category": "宅家",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 80,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "和猫咪待一个下午，注意过敏和人流，拍照也好玩。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-151",
+    "title": "成都当代影像馆看展",
+    "kind": "play",
+    "category": "文艺",
+    "city": "成都",
+    "area": "成华区",
+    "address": "东郊记忆内",
+    "budgetPerPerson": 40,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "摄影主题的展览馆，展览更新频繁，适合不太爱说话的约会。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-152",
+    "title": "成都动物园看动物",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "成华区",
+    "address": "昭觉寺路",
+    "budgetPerPerson": 30,
+    "durationMin": 150,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外",
+      "高体力"
+    ],
+    "rarity": "common",
+    "description": "走走看看，在熊猫馆、猴山和狮虎山之间随便逛，也可带点零食。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-153",
+    "title": "东湖公园或江滩公园散步",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "沿江公园",
+    "budgetPerPerson": 0,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "沿河走一段，聊聊最近的事，看看水边的人在做什么。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-154",
+    "title": "观鸟与锦江绿道散步",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "锦江绿道",
+    "budgetPerPerson": 0,
+    "durationMin": 90,
+    "timeOfDay": [
+      "morning"
+    ],
+    "tags": [
+      "户外",
+      "早起"
+    ],
+    "rarity": "rare",
+    "description": "早上沿绿道看白鹭，空气好，鸟儿多，带上相机更好。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-155",
+    "title": "VR或体感游戏馆",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "市区多家门店",
+    "budgetPerPerson": 100,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "刺激"
+    ],
+    "rarity": "common",
+    "description": "戴着头显一起打僵尸或赛车，合作与对抗都有，选温和的游戏就好。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-156",
+    "title": "熊猫邮局寄明信片",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "成华区",
+    "address": "熊猫基地周边",
+    "budgetPerPerson": 20,
+    "durationMin": 40,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "给未来的自己或对方寄一张明信片，几个月后收到会很有意思。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-157",
+    "title": "夜爬龙泉山看城市灯火",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "龙泉驿区",
+    "address": "龙泉山",
+    "budgetPerPerson": 0,
+    "durationMin": 180,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "户外",
+      "高体力"
+    ],
+    "rarity": "rare",
+    "description": "带上手电和外套，走到观景台看成都夜景，适合体力好的情侣。",
+    "source": "ai"
+  },
+  {
+    "id": "cd-158",
+    "title": "九眼桥酒吧街看夜景",
+    "kind": "play",
+    "category": "夜生活",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "九眼桥",
+    "budgetPerPerson": 100,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "酒精",
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "九眼桥的夜景和倒影很有名，不一定要喝酒，在桥上走走拍照也不错。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-159",
+    "title": "杜甫草堂外围街区探店",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "青华路与草堂路",
+    "budgetPerPerson": 40,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "rare",
+    "description": "草堂外围老街有咖啡店、画廊和小馆子，比景区安静。",
+    "source": "https://www.slitours.com/zh-hant/chengdu-city-walks/"
+  },
+  {
+    "id": "cd-160",
+    "title": "望平街文创集市",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "锦江区",
+    "address": "望平街",
+    "budgetPerPerson": 30,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "老街里的文创小店和集市，咖啡、书店挨着，逛完去青莲上街。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-161",
+    "title": "少城视井文创园",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "青羊区",
+    "address": "小通巷一带",
+    "budgetPerPerson": 30,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "老电视台旧址改造，展览、咖啡、小店都有，拍照好看。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-162",
+    "title": "铁像寺水街散步",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "高新区",
+    "address": "铁像寺水街",
+    "budgetPerPerson": 30,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "水边的小街，晚上灯光很好，逛完可以去隔壁的桂溪公园。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-163",
+    "title": "猛追湾游泳场",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "成华区",
+    "address": "猛追湾",
+    "budgetPerPerson": 40,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "高体力"
+    ],
+    "rarity": "rare",
+    "description": "老牌游泳场改造后重新开放，夏天来游泳很凉快，注意带泳衣。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_24720862"
+  },
+  {
+    "id": "cd-164",
+    "title": "成都动漫节或市集",
+    "kind": "play",
+    "category": "景点",
+    "city": "成都",
+    "area": "市区多区",
+    "address": "活动场馆",
+    "budgetPerPerson": 60,
+    "durationMin": 150,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "人多"
+    ],
+    "rarity": "rare",
+    "description": "遇上漫展或创意市集，买点周边，边逛边吃，不要错过活动日期。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-001",
+    "title": "一起做一顿晚餐",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 60,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "一起去菜市场买菜，各负责一道菜，做不好也无妨。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-002",
+    "title": "找一家没去过的咖啡店",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 50,
+    "durationMin": 90,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "手机地图搜附近评分高的，两个人都没去过的，试试新口味。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-003",
+    "title": "奶茶盲选",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 30,
+    "durationMin": 40,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "各自闭眼指菜单点一杯，喝完互换，看谁点到雷。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-004",
+    "title": "路边小摊随便吃",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 30,
+    "durationMin": 60,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "边走边吃，挑摊位靠直觉，吃到好吃的就多买一份。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-005",
+    "title": "自助餐吃回本",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 120,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "把一顿吃满，互相监督别浪费，吃得最多的人请甜品。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-006",
+    "title": "日式烤肉",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 130,
+    "durationMin": 100,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "一人一半负责烤，肉烤得好的人受表扬。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-007",
+    "title": "家庭火锅",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 100,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "买食材回家煮，锅底自己调，边吃边看电影。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-008",
+    "title": "清汤火锅",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 100,
+    "durationMin": 100,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "清汤锅底配蘸碟，不辣也好吃，吃的是食材本身。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-009",
+    "title": "早午餐店",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 80,
+    "durationMin": 90,
+    "timeOfDay": [
+      "morning"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "睡个懒觉，到店里吃一份早午餐，慢慢聊。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-010",
+    "title": "寿司或刺身",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 160,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "生冷",
+      "海鲜"
+    ],
+    "rarity": "rare",
+    "description": "挑一家日料店，点一份拼盘，不吃生冷的人慎选。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-011",
+    "title": "海鲜大排档",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 150,
+    "durationMin": 100,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "海鲜",
+      "生冷"
+    ],
+    "rarity": "rare",
+    "description": "挑新鲜的现点现做，不爱海鲜的人慎选。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-012",
+    "title": "西餐牛排",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 200,
+    "durationMin": 100,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [
+      "酒精"
+    ],
+    "rarity": "rare",
+    "description": "烛光和牛排，是最标准的纪念日套餐。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-013",
+    "title": "烧烤夜宵",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 90,
+    "durationMin": 100,
+    "timeOfDay": [
+      "night"
+    ],
+    "tags": [
+      "辣",
+      "酒精"
+    ],
+    "rarity": "common",
+    "description": "撸串配啤酒，两个人都不用顾忌形象。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-014",
+    "title": "精酿酒馆",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 100,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "酒精"
+    ],
+    "rarity": "common",
+    "description": "尝几款不同口味的精酿，互相猜原料，微醺为止。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-015",
+    "title": "清吧小酌",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 120,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "酒精"
+    ],
+    "rarity": "common",
+    "description": "安静的环境，一杯特调，慢慢聊。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-016",
+    "title": "甜品店",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 50,
+    "durationMin": 60,
+    "timeOfDay": [
+      "afternoon",
+      "night"
+    ],
+    "tags": [
+      "生冷"
+    ],
+    "rarity": "common",
+    "description": "点一份蛋糕或冰淇淋，各挑一勺，互相喂。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-017",
+    "title": "夜市逛吃",
+    "kind": "eat",
+    "category": "小吃",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 50,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "每个摊位只买一份，凑够十样才算打卡成功。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-018",
+    "title": "家里煮泡面加蛋",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 15,
+    "durationMin": 30,
+    "timeOfDay": [
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "宅家小确幸，两碗泡面各加一个蛋，边吃边追剧。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-019",
+    "title": "家里烘焙饼干",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 30,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "用简单的配方，一起做饼干，成品形状随意。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-020",
+    "title": "买菜回家煲汤",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 40,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "炖一锅汤，等待的时间一起看书或聊天。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-021",
+    "title": "野餐便当",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 50,
+    "durationMin": 120,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "自己做三明治和水果，铺好垫子，边吃边晒太阳。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-022",
+    "title": "路边烤红薯栗子",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 15,
+    "durationMin": 30,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "冬天买一袋热乎乎的栗子和红薯，捧在手里暖和。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-023",
+    "title": "早起吃早点",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 25,
+    "durationMin": 45,
+    "timeOfDay": [
+      "morning"
+    ],
+    "tags": [
+      "早起"
+    ],
+    "rarity": "common",
+    "description": "起个大早，去当地人才知道的早餐店，吃一碗热腾腾的。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-024",
+    "title": "米其林或黑珍珠餐厅",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 400,
+    "durationMin": 120,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "surprise",
+    "description": "一年一两次，提前订位，吃得认真，聊得慢一点。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-025",
+    "title": "自助小火锅",
+    "kind": "eat",
+    "category": "美食",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 70,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "辣"
+    ],
+    "rarity": "common",
+    "description": "每人一个小锅，各煮各的，想吃什么自己拿。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-026",
+    "title": "手冲咖啡体验",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 80,
+    "durationMin": 90,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "跟着店员学手冲，闻香气、品差别。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-027",
+    "title": "茶馆喝茶下棋",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 60,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "找一间茶馆泡壶茶，再带副棋，输的人付茶钱。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-028",
+    "title": "果酒微醺自酿",
+    "kind": "eat",
+    "category": "饮品",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 80,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [
+      "酒精"
+    ],
+    "rarity": "rare",
+    "description": "尝试自酿果酒或调酒体验，成品可以带走。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-029",
+    "title": "公园散步",
+    "kind": "play",
+    "category": "景点",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 0,
+    "durationMin": 90,
+    "timeOfDay": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "沿着公园走一圈，聊聊近况，累了找长椅坐下。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-030",
+    "title": "看日出",
+    "kind": "play",
+    "category": "景点",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 0,
+    "durationMin": 180,
+    "timeOfDay": [
+      "morning"
+    ],
+    "tags": [
+      "户外",
+      "早起",
+      "高体力"
+    ],
+    "rarity": "rare",
+    "description": "起个大早登上高处，等太阳升起，心情会很不一样。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-031",
+    "title": "看日落",
+    "kind": "play",
+    "category": "景点",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 0,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "挑一个视野开阔的地方，等落日，把当天最美的时刻留给彼此。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-032",
+    "title": "夜景观景台",
+    "kind": "play",
+    "category": "景点",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 40,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "找城里最高的观景台，看灯火一盏盏亮起。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-033",
+    "title": "逛博物馆",
+    "kind": "play",
+    "category": "景点",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 30,
+    "durationMin": 150,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "挑一个常设展，慢慢逛，互相讲讲看到的有趣东西。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-034",
+    "title": "逛美术馆看展",
+    "kind": "play",
+    "category": "景点",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 50,
+    "durationMin": 120,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "找一个当季展览，互相说说喜欢哪一幅。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-035",
+    "title": "植物园或花园",
+    "kind": "play",
+    "category": "景点",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 30,
+    "durationMin": 150,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "跟着季节走，春天看花，秋天看叶，带水和防晒。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-036",
+    "title": "动物园",
+    "kind": "play",
+    "category": "景点",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 60,
+    "durationMin": 180,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外",
+      "高体力"
+    ],
+    "rarity": "common",
+    "description": "看动物，也看对方对动物的反应，笑点不少。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-037",
+    "title": "水族馆",
+    "kind": "play",
+    "category": "景点",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 150,
+    "durationMin": 150,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "进入暗暗的海洋隧道，一起看鱼群游过头顶。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-038",
+    "title": "旧书店淘书",
+    "kind": "play",
+    "category": "景点",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 30,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "各自挑一本对方可能会喜欢的书，互相送。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-039",
+    "title": "逛古镇",
+    "kind": "play",
+    "category": "景点",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 80,
+    "durationMin": 240,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外",
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "挑一个周边古镇，慢逛慢吃，不赶时间。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-040",
+    "title": "老街区慢逛",
+    "kind": "play",
+    "category": "景点",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 20,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "不按攻略，跟着感觉拐进小巷，发现什么算什么。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-041",
+    "title": "逛花市或集市",
+    "kind": "play",
+    "category": "景点",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 20,
+    "durationMin": 90,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外",
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "买一束花或一盆小绿植，放在家里。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-042",
+    "title": "江边或湖边散步",
+    "kind": "play",
+    "category": "景点",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 0,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "沿水边走一走，找个地方坐下，聊聊天。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-043",
+    "title": "骑行",
+    "kind": "play",
+    "category": "运动",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 20,
+    "durationMin": 120,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "户外",
+      "高体力"
+    ],
+    "rarity": "common",
+    "description": "沿绿道骑一段，累了就停下来歇歇。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-044",
+    "title": "徒步爬山",
+    "kind": "play",
+    "category": "运动",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 0,
+    "durationMin": 240,
+    "timeOfDay": [
+      "morning"
+    ],
+    "tags": [
+      "户外",
+      "高体力",
+      "早起"
+    ],
+    "rarity": "common",
+    "description": "挑一座适合新手的山，互相拉一把，山顶合影。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-045",
+    "title": "保龄球",
+    "kind": "play",
+    "category": "运动",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 50,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "你一球我一球，看谁先打满一局。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-046",
+    "title": "游泳",
+    "kind": "play",
+    "category": "运动",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 40,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "高体力"
+    ],
+    "rarity": "common",
+    "description": "带上泳衣，在泳池里比一场，输的人买饮料。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-047",
+    "title": "羽毛球",
+    "kind": "play",
+    "category": "运动",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 40,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "高体力"
+    ],
+    "rarity": "common",
+    "description": "订个场地打几局，边打边聊，运动完更饿。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-048",
+    "title": "攀岩体验",
+    "kind": "play",
+    "category": "运动",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 90,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "高体力"
+    ],
+    "rarity": "rare",
+    "description": "新手有教练带，互相当保护员，增进信任。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-049",
+    "title": "卡丁车",
+    "kind": "play",
+    "category": "运动",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 120,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "刺激"
+    ],
+    "rarity": "rare",
+    "description": "两个人比赛，看谁先冲线，戴好头盔，安全第一。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-050",
+    "title": "蹦床公园",
+    "kind": "play",
+    "category": "运动",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 70,
+    "durationMin": 90,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "高体力",
+      "刺激"
+    ],
+    "rarity": "rare",
+    "description": "弹来弹去玩得满头大汗，注意热身。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-051",
+    "title": "滑冰或滑雪",
+    "kind": "play",
+    "category": "运动",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 200,
+    "durationMin": 240,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "高体力",
+      "刺激"
+    ],
+    "rarity": "rare",
+    "description": "冬天去体验，牵手一起滑，摔跤也是回忆。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-052",
+    "title": "瑜伽或普拉提体验课",
+    "kind": "play",
+    "category": "运动",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 80,
+    "durationMin": 90,
+    "timeOfDay": [
+      "morning"
+    ],
+    "tags": [
+      "高体力"
+    ],
+    "rarity": "common",
+    "description": "一起上一节体验课，伸展放松，课后喝杯果汁。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-053",
+    "title": "电影院看电影",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 60,
+    "durationMin": 150,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "选一部新片，边吃爆米花边看，散场聊感想。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-054",
+    "title": "KTV",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 60,
+    "durationMin": 150,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "订个小包，唱情歌，也可以唱彼此的青春歌单。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-055",
+    "title": "桌游",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 50,
+    "durationMin": 150,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "选个合作类的桌游，一起过关，输了也不吵架。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-056",
+    "title": "密室逃脱",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 120,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "恐怖"
+    ],
+    "rarity": "common",
+    "description": "选恐怖度低的主题，分工合作，一起解谜。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-057",
+    "title": "剧本杀",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 90,
+    "durationMin": 240,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "选情感本，不要太烧脑，沉浸式体验。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-058",
+    "title": "游乐园",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 250,
+    "durationMin": 360,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "刺激",
+      "人多",
+      "户外",
+      "排队"
+    ],
+    "rarity": "common",
+    "description": "过山车和旋转木马都玩，累了喝杯饮料，拍好多照片。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-059",
+    "title": "水上乐园",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 200,
+    "durationMin": 300,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "刺激",
+      "人多",
+      "户外",
+      "排队"
+    ],
+    "rarity": "rare",
+    "description": "夏天玩水，注意防晒和安全，带上换洗衣服。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-060",
+    "title": "蹦极或跳伞",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 400,
+    "durationMin": 180,
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "tags": [
+      "刺激",
+      "户外"
+    ],
+    "rarity": "surprise",
+    "description": "刺激的挑战，需要提前预约，看看两个人谁先喊出来。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-061",
+    "title": "热气球体验",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 600,
+    "durationMin": 180,
+    "timeOfDay": [
+      "morning"
+    ],
+    "tags": [
+      "户外",
+      "早起",
+      "刺激"
+    ],
+    "rarity": "surprise",
+    "description": "清晨升空，看日出和大地，只在天气好时才能飞。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-062",
+    "title": "温泉泡汤",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 180,
+    "durationMin": 180,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "冬天最舒服的约会，泡完吃点水果，睡得特别香。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-063",
+    "title": "露营",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 150,
+    "durationMin": 480,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "rare",
+    "description": "搭帐篷、煮东西、看星星，带好防蚊和保暖衣物。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-064",
+    "title": "看一场演唱会或演出",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 400,
+    "durationMin": 180,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [
+      "人多"
+    ],
+    "rarity": "rare",
+    "description": "提前买票，一起大声合唱，是特别的共同回忆。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-065",
+    "title": "看话剧或音乐剧",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 250,
+    "durationMin": 150,
+    "timeOfDay": [
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "选一场口碑好的演出，散场后聊感受。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-066",
+    "title": "电玩城",
+    "kind": "play",
+    "category": "娱乐",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 60,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [
+      "人多"
+    ],
+    "rarity": "common",
+    "description": "抓娃娃、赛车、投篮，比分高者获得奖励。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-067",
+    "title": "陶艺体验",
+    "kind": "play",
+    "category": "手作",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 150,
+    "durationMin": 150,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "各自捏一个杯子，丑得有个性，烧好后互换。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-068",
+    "title": "咖啡拉花",
+    "kind": "play",
+    "category": "手作",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 120,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "互相学做拉花，成品味道一般，但笑料不少。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-069",
+    "title": "木工小物",
+    "kind": "play",
+    "category": "手作",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 150,
+    "durationMin": 150,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "做一个小木盒或书签，亲手打磨，充满成就感。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-070",
+    "title": "拍一组情侣写真",
+    "kind": "play",
+    "category": "手作",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 300,
+    "durationMin": 180,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "找摄影师拍一组，穿搭可以提前商量，留下合照。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-071",
+    "title": "拍大头贴",
+    "kind": "play",
+    "category": "手作",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 30,
+    "durationMin": 40,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "商场里的自助拍照机，拍好多张贴满钱包。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-072",
+    "title": "在家看电影马拉松",
+    "kind": "play",
+    "category": "宅家",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 20,
+    "durationMin": 240,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "选一个系列，一口气看完，爆米花和零食管够。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-073",
+    "title": "一起打游戏",
+    "kind": "play",
+    "category": "宅家",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 0,
+    "durationMin": 180,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "合作过关或对战，输的人罚洗碗。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-074",
+    "title": "拼乐高或拼图",
+    "kind": "play",
+    "category": "宅家",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 100,
+    "durationMin": 240,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "一起拼一个大的，一整个下午都在专心。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-075",
+    "title": "大扫除换家具位置",
+    "kind": "play",
+    "category": "宅家",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 0,
+    "durationMin": 180,
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "tags": [
+      "高体力"
+    ],
+    "rarity": "common",
+    "description": "边放音乐边打扫，把房子重新布置一遍，也是一种新鲜感。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-076",
+    "title": "互相读书给对方听",
+    "kind": "play",
+    "category": "宅家",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 0,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "各挑一段喜欢的书，读给对方听，再交流想法。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-077",
+    "title": "整理旧照片",
+    "kind": "play",
+    "category": "宅家",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 0,
+    "durationMin": 120,
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "翻看手机相册，挑出最喜欢的做成相册或打印出来。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-078",
+    "title": "天台或阳台看星星",
+    "kind": "play",
+    "category": "宅家",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 10,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [
+      "户外"
+    ],
+    "rarity": "common",
+    "description": "铺条毯子，躺着数星星，聊一聊梦想。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-079",
+    "title": "写一封给十年后的信",
+    "kind": "play",
+    "category": "宅家",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 0,
+    "durationMin": 60,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "rare",
+    "description": "各自写给未来，封好约定十年后一起打开。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-080",
+    "title": "一起学一首新歌",
+    "kind": "play",
+    "category": "宅家",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 0,
+    "durationMin": 90,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "找一首歌，各唱一段，再合唱，录下来留念。",
+    "source": "ai"
+  },
+  {
+    "id": "gen-081",
+    "title": "做一份情侣问答",
+    "kind": "play",
+    "category": "宅家",
+    "city": "通用",
+    "area": "",
+    "address": "",
+    "budgetPerPerson": 0,
+    "durationMin": 60,
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "tags": [],
+    "rarity": "common",
+    "description": "写下十个关于对方的问题，互相回答，看谁更了解谁。",
+    "source": "ai"
+  }
+]
