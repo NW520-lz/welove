@@ -1,0 +1,7 @@
+node_modules/
+dist/
+unpackage/
+.env
+*.db
+*.db-*
+.scratch/
