@@ -1,0 +1,57 @@
+{
+    "name" : "我们约会吧",
+    "appid" : "__UNI__7298383",
+    "description" : "情侣约会决策：掷骰子、各抽一半、盲盒、刮刮乐，一起随机决定这次约会做什么",
+    "versionName" : "1.0.0",
+    "versionCode" : "100",
+    "transformPx" : false,
+    /* 5+App特有相关 */
+    "app-plus" : {
+        "usingComponents" : true,
+        "nvueStyleCompiler" : "uni-app",
+        "compilerVersion" : 3,
+        "splashscreen" : {
+            "alwaysShowBeforeRender" : true,
+            "waiting" : true,
+            "autoclose" : true,
+            "delay" : 0
+        },
+        /* 模块配置：保存相册属于基础能力，不需要额外模块 */
+        "modules" : {},
+        /* 应用发布信息 */
+        "distribute" : {
+            /* android打包配置：只保留联网和保存长图到相册需要的权限 */
+            "android" : {
+                "permissions" : [
+                    "<uses-permission android:name=\"android.permission.INTERNET\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.READ_EXTERNAL_STORAGE\"/>",
+                    "<uses-permission android:name=\"android.permission.WRITE_EXTERNAL_STORAGE\"/>",
+                    "<uses-permission android:name=\"android.permission.READ_MEDIA_IMAGES\"/>"
+                ]
+            },
+            /* ios打包配置 */
+            "ios" : {},
+            /* SDK配置 */
+            "sdkConfigs" : {},
+            "icons" : {
+                "android" : {
+                    "hdpi" : "D:/桌面/公司/公司文档pdf/商标参考/我们约会吧.png",
+                    "xhdpi" : "D:/桌面/公司/公司文档pdf/商标参考/我们约会吧.png",
+                    "xxhdpi" : "D:/桌面/公司/公司文档pdf/商标参考/我们约会吧.png",
+                    "xxxhdpi" : "D:/桌面/公司/公司文档pdf/商标参考/我们约会吧.png"
+                }
+            }
+        }
+    },
+    "h5" : {
+        "title" : "我们约会吧",
+        "router" : {
+            "mode" : "hash"
+        }
+    },
+    "uniStatistics" : {
+        "enable" : false
+    },
+    "vueVersion" : "3"
+}
