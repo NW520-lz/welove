@@ -15,11 +15,14 @@ const date = ref(today())
 const startTime = ref('14:00')
 const dates = ref<DateSession[]>([])
 const busy = ref(false)
+const outfitsWaiting = ref(0) // TA 点给我、我还没回的穿搭
 let timer: ReturnType<typeof setInterval> | undefined
 
 async function loadDates() {
   try {
-    dates.value = await api.listDates()
+    const [list, outfits] = await Promise.all([api.listDates(), api.outfits()])
+    dates.value = list
+    outfitsWaiting.value = outfits.requests.filter((r) => !r.fromMe && r.status === 'pending').length
   } catch {
     // 列表刷新失败不弹窗，下一轮再试
   }
@@ -62,6 +65,10 @@ async function startDate() {
 
 function goWishes() {
   uni.navigateTo({ url: '/pages/wishes/wishes' })
+}
+
+function goOutfits() {
+  uni.navigateTo({ url: '/pages/outfits/outfits' })
 }
 
 function goMe() {
@@ -109,6 +116,17 @@ function summary(d: DateSession) {
         <view class="wish-sub">加上你们想吃、想玩的，抽卡时优先抽到</view>
       </view>
       <text class="wish-arrow">›</text>
+    </view>
+
+    <view class="sticker wish-entry outfit-entry" @tap="goOutfits">
+      <view>
+        <view class="wish-title">想看你穿 👗</view>
+        <view class="wish-sub">
+          {{ outfitsWaiting ? `${store.me?.partner?.nickname || 'TA'}给你点了 ${outfitsWaiting} 套，快去回应` : '点一套想看 TA 穿的风格，JK、汉服、老钱风…' }}
+        </view>
+      </view>
+      <text v-if="outfitsWaiting" class="outfit-dot">{{ outfitsWaiting }}</text>
+      <text v-else class="wish-arrow">›</text>
     </view>
 
     <view class="section-label history-label">我们的约会</view>
@@ -182,6 +200,30 @@ function summary(d: DateSession) {
   padding: 12px 16px;
   background: var(--butter);
   transform: rotate(0.8deg);
+}
+.outfit-entry {
+  margin-top: 14px;
+  background: var(--mint);
+  transform: rotate(-0.6deg);
+}
+.outfit-dot {
+  flex-shrink: 0;
+  min-width: 26px;
+  height: 26px;
+  line-height: 24px;
+  padding: 0 6px;
+  border: 2px solid var(--ink);
+  border-radius: 999px;
+  background: var(--coral);
+  font-weight: 900;
+  text-align: center;
+  box-sizing: border-box;
+  animation: nudge 1.4s ease-in-out infinite;
+}
+@keyframes nudge {
+  50% {
+    transform: scale(1.15) rotate(-6deg);
+  }
 }
 .wish-title {
   font-weight: 900;

@@ -1,15 +1,19 @@
 <script setup lang="ts">
 import { getCurrentInstance, onMounted, ref } from 'vue'
 
-defineProps<{ text: string }>()
+// rememberKey：刮开后用它记在本机，同一次约会再进来直接显示结果，不用再刮
+const props = defineProps<{ text: string; rememberKey: string }>()
 
-const WIDTH = 300
+// 卡片外面还有页面边距 20×2、贴纸内边距 16×2 和描边，窄屏上按屏幕宽度收窄，避免溢出
+const WIDTH = Math.min(300, uni.getWindowInfo().windowWidth - 82)
 const HEIGHT = 130
 const BRUSH = 20
 const MOVES_TO_REVEAL = 30 // 刮够这么多下就整片揭开
 
 const instance = getCurrentInstance()
-const revealed = ref(false)
+const storageKey = `scratched:${props.rememberKey}`
+const revealedBefore = readRevealed() // 之前刮开过：不画涂层，也不放画布
+const revealed = ref(revealedBefore)
 let ctx: UniApp.CanvasContext
 let moves = 0
 let mouseDown = false
@@ -33,7 +37,25 @@ function drawCoating() {
   ctx.draw()
 }
 
+function readRevealed() {
+  try {
+    return !!uni.getStorageSync(storageKey)
+  } catch {
+    return false
+  }
+}
+
+function reveal() {
+  revealed.value = true
+  try {
+    uni.setStorageSync(storageKey, 1)
+  } catch {
+    // 存不下也不影响这次显示
+  }
+}
+
 onMounted(() => {
+  if (revealedBefore) return
   ctx = uni.createCanvasContext('scratch', instance?.proxy)
   drawCoating()
 })
@@ -75,7 +97,7 @@ function scratchAt(x: number, y: number) {
   ctx.fill()
   ctx.draw(true)
   moves += 1
-  if (moves >= MOVES_TO_REVEAL) revealed.value = true
+  if (moves >= MOVES_TO_REVEAL) reveal()
 }
 </script>
 
@@ -96,6 +118,7 @@ function scratchAt(x: number, y: number) {
       </view>
     </view>
     <canvas
+      v-if="!revealedBefore"
       canvas-id="scratch"
       id="scratch"
       class="scratch-canvas"
@@ -152,8 +175,10 @@ function scratchAt(x: number, y: number) {
 }
 .prize-text {
   margin-top: 6px;
-  font-size: 19px;
+  font-size: 18px;
   font-weight: 900;
+  line-height: 1.35;
+  word-break: break-all;
 }
 .scratch-canvas {
   position: absolute;

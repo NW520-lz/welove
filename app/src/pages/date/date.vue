@@ -162,7 +162,7 @@ async function veto(slot: Slot) {
     <!-- 4 刮刮乐 -->
     <view v-if="splitDone" class="step sticker pop-in">
       <view class="section-label"><text class="num">4</text>刮刮乐</view>
-      <ScratchCard v-if="d.task" :text="d.task.text" />
+      <ScratchCard v-if="d.task" :text="d.task.text" :remember-key="`${d.id}:${d.task.id}`" />
       <view v-else class="btn butter" :class="{ disabled: busy }" @tap="scratch">领一张刮刮卡</view>
     </view>
 

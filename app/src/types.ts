@@ -78,3 +78,36 @@ export interface DateSession {
   itinerary: Itinerary | null
   shareId: string | null
 }
+
+export interface OutfitStyle {
+  id: string
+  name: string
+  for: Gender | 'any'
+  desc: string
+  custom?: boolean // 自己加的风格
+  mine?: boolean // 自定义风格是不是我加的
+}
+
+export interface Wardrobe {
+  styles: string[]
+  note: string
+}
+
+export interface OutfitRequest {
+  id: string
+  fromMe: boolean
+  styleId: string
+  styleName: string
+  message: string
+  status: 'pending' | 'accepted' | 'declined'
+  reply: string
+  createdAt: number
+  repliedAt: number | null
+}
+
+export interface Outfits {
+  styles: OutfitStyle[]
+  mine: Wardrobe
+  partner: (Wardrobe & { user: User }) | null
+  requests: OutfitRequest[]
+}

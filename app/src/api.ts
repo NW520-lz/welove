@@ -1,5 +1,5 @@
 import { store, clearSession } from './store'
-import type { DateSession, Gender, Me, User, Wish } from './types'
+import type { DateSession, Gender, Me, OutfitRequest, Outfits, OutfitStyle, User, Wardrobe, Wish } from './types'
 
 export const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:3000'
 
@@ -50,7 +50,16 @@ export const api = {
   addWish: (title: string, kind: 'eat' | 'play', budgetPerPerson: number | null) =>
     request<Wish>('POST', '/api/wishes', { title, kind, budgetPerPerson }),
   deleteWish: (id: string) => request<unknown>('DELETE', `/api/wishes/${id}`),
-  createDate:(date: string, startTime: string) =>
+  outfits: () => request<Outfits>('GET', '/api/outfits'),
+  saveWardrobe: (styles: string[], note: string) => request<Wardrobe>('PUT', '/api/outfits/wardrobe', { styles, note }),
+  sendOutfit: (styleId: string, message: string) =>
+    request<OutfitRequest>('POST', '/api/outfits/requests', { styleId, message }),
+  addStyle: (name: string) => request<OutfitStyle>('POST', '/api/outfits/styles', { name }),
+  deleteStyle: (id: string) => request<unknown>('DELETE', `/api/outfits/styles/${id}`),
+  withdrawOutfit: (id: string) => request<unknown>('DELETE', `/api/outfits/requests/${id}`),
+  replyOutfit: (id: string, status: 'accepted' | 'declined', reply: string) =>
+    request<OutfitRequest>('POST', `/api/outfits/requests/${id}/reply`, { status, reply }),
+  createDate: (date: string, startTime: string) =>
     request<DateSession>('POST', '/api/dates', { date, startTime }),
   getDate: (id: string) => request<DateSession>('GET', `/api/dates/${id}`),
   listDates: () => request<DateSession[]>('GET', '/api/dates'),

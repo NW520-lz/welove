@@ -31,27 +31,14 @@ const cubeStyle = computed(() => {
 
 <template>
   <view class="stage">
-    <view v-if="rolling" class="video-roll">
-      <video
-        class="dice-video"
-        src="/static/dice-roll.mp4"
-        autoplay
-        loop
-        muted
-        :controls="false"
-        :show-center-play-btn="false"
-        :enable-progress-gesture="false"
-        object-fit="contain"
-      />
-    </view>
-    <view v-else class="cube" :style="cubeStyle">
+    <view class="cube" :class="{ rolling }" :style="cubeStyle">
       <view v-for="n in 6" :key="n" class="face" :class="`f${n}`">
         <view v-for="cell in 9" :key="cell" class="cell">
           <view v-if="PIPS[n].includes(cell - 1)" class="pip" :class="{ red: n === 1 }" />
         </view>
       </view>
     </view>
-    <view v-if="!rolling" class="shadow" />
+    <view class="shadow" :class="{ rolling }" />
   </view>
 </template>
 
@@ -64,20 +51,6 @@ const cubeStyle = computed(() => {
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-.video-roll {
-  width: 110px;
-  height: 110px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 18px;
-  overflow: hidden;
-  box-shadow: 0 4px 12px rgba(58, 35, 32, 0.12);
-}
-.dice-video {
-  width: 100%;
-  height: 100%;
 }
 .cube {
   position: relative;

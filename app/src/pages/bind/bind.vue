@@ -102,16 +102,10 @@ async function join() {
     <!-- 绑定成功庆祝弹窗 -->
     <view v-if="isCelebrating" class="celebrate-overlay pop-in">
       <view class="celebrate-card">
-        <video
-          class="celebrate-video"
-          src="/static/bind-success.mp4"
-          autoplay
-          muted
-          :controls="false"
-          :show-center-play-btn="false"
-          :enable-progress-gesture="false"
-          object-fit="contain"
-        />
+        <view class="celebrate-art">
+          <text class="big-heart">♥</text>
+          <text v-for="n in 6" :key="n" class="spark" :class="`s${n}`">♥</text>
+        </view>
         <view class="celebrate-title hand">🎉 绑定成功！</view>
         <view class="celebrate-subtitle">你们的心意已相连，开启约会吧~</view>
       </view>
@@ -140,12 +134,58 @@ async function join() {
   width: 85%;
   max-width: 320px;
 }
-.celebrate-video {
-  width: 200px;
-  height: 200px;
+.celebrate-art {
+  position: relative;
+  width: 160px;
+  height: 140px;
   margin: 0 auto 12px;
-  border-radius: 16px;
-  display: block;
+}
+.big-heart {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: -45px 0 0 -40px;
+  font-size: 80px;
+  line-height: 90px;
+  color: var(--coral);
+  text-shadow: 3px 3px 0 var(--ink);
+  animation: beat 0.9s ease-in-out infinite;
+}
+@keyframes beat {
+  30% {
+    transform: scale(1.18);
+  }
+  60% {
+    transform: scale(0.96);
+  }
+}
+.spark {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  font-size: 18px;
+  color: var(--coral-deep);
+  opacity: 0;
+  animation: burst 1.6s ease-out infinite;
+}
+.s1 { --dx: -70px; --dy: -50px; }
+.s2 { --dx: 66px; --dy: -54px; animation-delay: 0.2s; }
+.s3 { --dx: -76px; --dy: 30px; animation-delay: 0.4s; color: var(--butter); }
+.s4 { --dx: 72px; --dy: 34px; animation-delay: 0.6s; color: var(--mint); }
+.s5 { --dx: 0; --dy: -68px; animation-delay: 0.8s; color: var(--butter); }
+.s6 { --dx: 6px; --dy: 62px; animation-delay: 1s; }
+@keyframes burst {
+  0% {
+    transform: translate(-50%, -50%) scale(0.4);
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate(calc(-50% + var(--dx)), calc(-50% + var(--dy))) scale(1.1);
+    opacity: 0;
+  }
 }
 .celebrate-title {
   font-size: 24px;

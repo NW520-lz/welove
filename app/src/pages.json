@@ -8,6 +8,7 @@
 		{ "path": "pages/date/date", "style": { "navigationBarTitleText": "约会进行中" } },
 		{ "path": "pages/plan/plan", "style": { "navigationBarTitleText": "我们的行程" } },
 		{ "path": "pages/wishes/wishes", "style": { "navigationBarTitleText": "我们的心愿卡" } },
+		{ "path": "pages/outfits/outfits", "style": { "navigationBarTitleText": "想看你穿" } },
 		{ "path": "pages/me/me", "style": { "navigationBarTitleText": "我的" } }
 	],
 	"globalStyle": {

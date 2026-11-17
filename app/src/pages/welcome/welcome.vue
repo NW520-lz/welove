@@ -49,18 +49,10 @@ async function recover() {
 
 <template>
   <view class="welcome-container">
-    <video
-      class="bg-video"
-      src="/static/welcome-bg.mp4"
-      autoplay
-      loop
-      muted
-      :controls="false"
-      :show-center-play-btn="false"
-      :enable-progress-gesture="false"
-      object-fit="cover"
-    />
-    <view class="bg-mask" />
+    <!-- 动态背景用 CSS 做：安卓 App 里 <video> 是原生组件，会一直显示播放状态 -->
+    <view class="bg-hearts">
+      <text v-for="n in 8" :key="n" class="float-heart" :class="`h${n}`">♥</text>
+    </view>
     <view class="page welcome-content">
       <view class="hero">
         <view class="bubble b1">吃什么？</view>
@@ -102,24 +94,41 @@ async function recover() {
   min-height: 100vh;
   overflow: hidden;
 }
-.bg-video {
+.bg-hearts {
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
+  inset: 0;
   z-index: 0;
+  overflow: hidden;
   pointer-events: none;
+  background: linear-gradient(180deg, var(--blush) 0%, var(--cream) 60%);
 }
-.bg-mask {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background: linear-gradient(180deg, rgba(255, 244, 234, 0.72) 0%, rgba(255, 244, 234, 0.9) 65%, rgba(255, 244, 234, 0.98) 100%);
-  z-index: 1;
-  pointer-events: none;
+.float-heart {
+  position: absolute;
+  bottom: -40px;
+  color: var(--coral);
+  opacity: 0;
+  animation: rise 9s linear infinite;
+}
+.h1 { left: 6%; font-size: 22px; animation-delay: 0s; }
+.h2 { left: 22%; font-size: 14px; animation-delay: 2.2s; }
+.h3 { left: 38%; font-size: 28px; animation-delay: 4.6s; }
+.h4 { left: 54%; font-size: 16px; animation-delay: 1.1s; }
+.h5 { left: 68%; font-size: 24px; animation-delay: 6s; }
+.h6 { left: 82%; font-size: 13px; animation-delay: 3.3s; }
+.h7 { left: 92%; font-size: 20px; animation-delay: 7.4s; }
+.h8 { left: 46%; font-size: 12px; animation-delay: 5.2s; }
+@keyframes rise {
+  0% {
+    transform: translateY(0) rotate(-10deg);
+    opacity: 0;
+  }
+  15% {
+    opacity: 0.35;
+  }
+  100% {
+    transform: translateY(-110vh) rotate(20deg);
+    opacity: 0;
+  }
 }
 .welcome-content {
   position: relative;
@@ -172,6 +181,9 @@ async function recover() {
   display: flex;
   flex-direction: column;
   gap: 14px;
+}
+.form .section-label {
+  align-self: flex-start;
 }
 .genders {
   display: flex;

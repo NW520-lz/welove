@@ -138,20 +138,33 @@ watch(
   border-radius: 999px;
   background: var(--blush);
 }
+/* 卡片高度固定，标题最多 2 行、简介最多 3 行，超出用省略号，不会被拦腰截断 */
 .name {
+  flex-shrink: 0;
   font-size: 19px;
   font-weight: 900;
   line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 .desc {
   flex: 1;
+  min-height: 0;
   font-size: 13px;
+  line-height: 1.5;
   color: var(--ink-soft);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
   overflow: hidden;
 }
 .meta {
+  flex-shrink: 0;
   display: flex;
-  gap: 10px;
+  flex-wrap: wrap;
+  gap: 2px 10px;
   font-size: 12px;
   font-weight: 700;
 }
