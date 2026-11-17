@@ -4,6 +4,7 @@ import cors from 'cors';
 import * as game from './game.js';
 import { planWithDeepSeek } from './ai.js';
 import { renderSharePage, renderNotFoundPage } from './share.js';
+import { registerOutfitRoutes } from './outfits.js';
 
 const INVITE_TTL_MS = 24 * 60 * 60 * 1000;
 const CARD_SLOTS = ['eat', 'play', 'blindbox'];
@@ -254,6 +255,10 @@ export function createApp({
     db.prepare('DELETE FROM wishes WHERE id = ?').run(row.id);
     res.json({ ok: true });
   });
+
+  // ---------- 想看你穿 ----------
+
+  registerOutfitRoutes(app, { db, auth, fail, partnerOf, publicUser, now });
 
   // ---------- 约会 ----------
 

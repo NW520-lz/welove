@@ -42,6 +42,29 @@ CREATE TABLE IF NOT EXISTS wishes (
   budget_per_person INTEGER,
   created_at INTEGER NOT NULL
 );
+CREATE TABLE IF NOT EXISTS wardrobes (
+  user_id TEXT PRIMARY KEY,
+  styles TEXT NOT NULL DEFAULT '[]',
+  note TEXT NOT NULL DEFAULT ''
+);
+CREATE TABLE IF NOT EXISTS outfit_requests (
+  id TEXT PRIMARY KEY,
+  from_id TEXT NOT NULL,
+  to_id TEXT NOT NULL,
+  style_id TEXT NOT NULL,
+  style_name TEXT NOT NULL DEFAULT '',
+  message TEXT NOT NULL DEFAULT '',
+  status TEXT NOT NULL,
+  reply TEXT NOT NULL DEFAULT '',
+  created_at INTEGER NOT NULL,
+  replied_at INTEGER
+);
+CREATE TABLE IF NOT EXISTS custom_styles (
+  id TEXT PRIMARY KEY,
+  owner_id TEXT NOT NULL,
+  name TEXT NOT NULL,
+  created_at INTEGER NOT NULL
+);
 CREATE TABLE IF NOT EXISTS dates (
   id TEXT PRIMARY KEY,
   couple_id TEXT NOT NULL,
